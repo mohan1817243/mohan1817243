@@ -33,17 +33,3 @@ I am a Developer and Security Enthusiast focused on the convergence of **Offensi
 | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) | ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohan1817243&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Mohan's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan1817243&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <sub>Let's connect! Always open to discussing <strong>Network Defense</strong> and <strong>Web3 Security</strong>.</sub>
-</div>

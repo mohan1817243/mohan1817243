@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
+  <h2>🔒 Security & Efficiency First | Cybersecurity Researcher</h2>
+  <p>
+    <em>"Prioritizing security best practices, defensive hardening, and performance optimization."</em>
+  </p>
+  
+  <p>
+    <a href="https://github.com/mohan1817243">
+      <img src="https://komarev.com/ghpvc/?username=mohan1817243&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    </a>
+  </p>
+</div>
 
-<!--
-**mohan1817243/mohan1817243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Developer and Security Enthusiast focused on the convergence of **Offensive & Defensive Cybersecurity**. I am currently transitioning from foundational mastery to intermediate specialization ("Peak Beginner" phase), with a strong drive to understand systems "under the hood."
+
+* 🔭 **I’m currently working on:** Enhancing my [InternshipProjects](https://github.com/mohan1817243/InternshipProjects) portfolio (Offensive Tooling).
+* 🌱 **I’m currently learning:** Blockchain Architecture, Smart Contract Security, and Advanced Java.
+* 🛡️ **My Domain:** Offensive Security (Red Teaming), Defensive Hardening (Blue Teaming), and Network Traffic Analysis.
+* 🤝 **Collaboration:** Open to projects involving secure scripting and blockchain basics.
+
+---
+
+### 🛠️ Technical Arsenal
+
+| **Languages** | **Offensive Security** | **Defensive & Infra** |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F36C00?style=flat&logo=burpsuite&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) |
+| ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) | ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohan1817243&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Mohan's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan1817243&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Let's connect! Always open to discussing <strong>Network Defense</strong> and <strong>Web3 Security</strong>.</sub>
+</div>
